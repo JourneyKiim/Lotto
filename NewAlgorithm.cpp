@@ -43,7 +43,7 @@ void Lotto(int numbers[])
 int main()
 {
 
-	int numbers[6]
+	int numbers[6] = { };
 
 	Lotto(numbers);
 
