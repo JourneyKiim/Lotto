@@ -47,7 +47,6 @@ int main()
 
 	Lotto(numbers);
 
-	//행운의 로또앱 완성
 	for (int i = 0; i < 6; i++)
 		cout << numbers[i] << endl;
 
